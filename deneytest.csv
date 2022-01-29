@@ -1,0 +1,161 @@
+conditionNumber;objectDefinition;objectAccusition;context;item;itemNumber;list
+1;def;unacc;Bulmaca çocuk çözüyor, rahat bırakın da çözsün!;1;1;
+2;def;acc;Bulmacayı çocuk çözüyor, sen başka bir şey yap.;1;2;
+3;indef;unacc;Bir bulmaca çocuk çözüyor, bayağı eğleniyor gibi gözüküyor.;1;3;
+4;indef;acc;Bir bulmacayı çocuk çözüyor, bilemedikçe sinirlenip söyleniyor.;1;4;
+1;def;unacc;Ödev kız yapıyor, rahat bırakın da yapsın!;2;2;
+2;def;acc;Ödevi kız yapıyor, aferini bu kapıyor.;2;3;
+3;indef;unacc;Bir ödev kız yapıyor, bayağı da sıkılmış gözüküyor.;2;4;
+4;indef;acc;Bir ödevi kız yapıyor, yapamadıkça sinirlenip söyleniyor.;2;1;
+1;def;unacc;Resim kadın çiziyor, rahat bırakın da çizsin!;3;3;
+2;def;acc;Resmi kadın çiziyor, sen başka bir şey yap.;3;4;
+3;indef;unacc;Bir resim kadın çiziyor, bayağı mutlu görünüyor.;3;1;
+4;indef;acc;Bir resmi kadın çiziyor, fakat pek istekli görünmüyor.;3;2;
+1;def;unacc;Oyun çocuk oynuyor, rahat bırakın da oynasın!;4;4;
+2;def;acc;Oyunu çocuk oynuyor, sen başka bir şey yap.;4;1;
+3;indef;unacc;Bir oyun çocuk oynuyor, bayağı eğleniyor gibi gözüküyor.;4;2;
+4;indef;acc;Bir oyunu çocuk oynuyor, birazdan yorulup bırakır;4;3;
+1;def;unacc;Şarkı kadın söylüyor, bunlar arkada bağırışıp duruyor.;5;1;
+2;def;acc;Şarkıyı kadın söylüyor, taktiri gitarist topluyor.;5;2;
+3;indef;unacc;Bir şarkı kadın söylüyor, sesi bayağı neşeli geliyor;5;3;
+4;indef;acc;Bir şarkıyı kadın söylüyor, fakat pek isteksiz söylüyor.;5;4;
+5;def;unacc;Perde görevli asıyor, bunlar gelmiş merdiveni sallıyor!;6;2;
+6;def;acc;Perdeyi görevli asıyor fakat kimse perdeyi fark etmiyor.;6;3;
+7;indef;unacc;Bir perde görevli asıyor, o esnada merdivenden düşüyor!;6;4;
+8;indef;acc;Bir perdeyi görevli asıyor, birazdan bitirip gelir.;6;1;
+1;def;unacc;Bahçe adam suluyor, o esnada çat diye sular gidiyor.;7;3;
+2;def;acc;Bahçeyi adam suluyor, sonra kaldırımlara da bir su tutuyor.;7;4;
+3;indef;unacc;Bir bahçe adam suluyor, fakat böyle güneşli bir havada hata ediyor.;7;1;
+4;indef;acc;Bir bahçeyi adam suluyor, oranın sahibi mi ki?;7;2;
+5;def;unacc;Yemek çocuk yapıyor, bunlar oturduğu yerden izliyor.;8;4;
+6;def;acc;Yemeği çocuk yapıyor, sen de salata yapıver.;8;1;
+7;indef;unacc;Bir yemek çocuk yapıyor, bayağı da işinin ehli gözüküyor.;8;2;
+8;indef;acc;Bir yemeği çocuk yapıyor fakat tarifini bize söylemek istemiyor.;8;3;
+1;def;unacc;Şiir kadın okuyor ama görsen nasıl duygusal!;9;1;
+2;def;acc;Şiiri kadın okuyor ama kime ait olduğunu bilmiyor.;9;2;
+3;indef;unacc;Bir şiir kadın okuyor, duysan nasıl da güzel okuyor;9;3;
+4;indef;acc;Bir şiiri kadın okuyor ve şiirden çok etkileniyor.;9;4;
+5;def;unacc;Hikaye çocuk yazıyor ama beğenmediği için kimseye okutmuyor;10;2;
+6;def;acc;Hikayeyi çocuk yazıyor ve ertesi ay birkaç dergiye yolluyor;10;3;
+7;indef;unacc;Bir hikaye çocuk yazıyor fakat bir türlü bitiremiyor;10;4;
+8;indef;acc;Bir hikayeyi çocuk yazıyor ama kimse yazarın çocuk olduğunu anlayamıyor.;10;1;
+1;def;unacc;Roman kız okuyor şu yan şezlongta, pek de güzel bir kız.;11;3;
+2;def;acc;Romanı kız okuyor fakat hiç beğenmiyor;11;4;
+3;indef;unacc;Bir roman kız okuyor ve tüm bakış açısı değişiyor;11;1;
+4;indef;acc;Bir romanı kız okuyor ve hiç beğenmiyor;11;2;
+5;def;unacc;Sigara adam istiyor bu da direkt veriyor;12;4;
+6;def;acc;Sigarayı bi adam istiyor ama bu vermiyor;12;1;
+7;indef;unacc;Bir sigara adam istiyor, bizimki adama yok mok diyor;12;2;
+8;indef;acc;Bir sigarayı adam istiyor, sonuncuyu da bu istiyor.;12;3;
+1;def;unacc;Fotoğraf kadın çekiyor, kızı arkadan iki kulak yapıyor.;13;1;
+2;def;acc;Fotoğrafı kadın çekiyor ve ardından kaçıyor;13;2;
+3;indef;unacc;Bir fotoğraf kadın çekiyor ama nereyi çekiyor;13;3;
+4;indef;acc;Bir fotoğrafı kadın çekiyor ve herkese yollamakla tehdit ediyor.;13;4;
+5;def;unacc;Tabak kadın kırıyor, bu da parasını ödettiriyor;14;2;
+6;def;acc;Tabağı kadın kırıyor, bu kendi kırdı sanıyor;14;3;
+7;indef;unacc;Bir tabak kadın kırıyor, bu demediğini bırakmıyor;14;4;
+8;indef;acc;Bir tabağı kadın kırıyor, bu söylemedik laf bırakmıyor;14;1;
+1;def;unacc;Cam temizlikçi siliyor sabah beri, pek yoruldu kadıncağız;15;3;
+2;def;acc;Camı temizlikçi siliyor, sen yerleri al yeter;15;4;
+3;indef;unacc;Bir cam temizlikçi siliyor, ama nerede bilmiyorum;15;1;
+4;indef;acc;Bir camı temizlikçi siliyor, birazdan bitirir gelir;15;2;
+5;def;unacc;Teklif satıcı yapıyor, bu da makul buluyor;16;4;
+6;def;acc;Teklifi satıcı yapıyor, gerisine karışmıyor;16;1;
+7;indef;unacc;Bir teklif satıcı yapıyor fakat sonra vazgeçiyor;16;2;
+8;indef;acc;Bir teklifi satıcı yapıyor, bu da gayet makul buluyor;16;3;
+1;def;unacc;Halı adam seriyor, ucundan tut da beraber serin;17;1;
+2;def;acc;Halıyı adam seriyor, serme diyorum ama seriyor;17;2;
+3;indef;unacc;Bir halı adam seriyor, o kadar güzel ki, rengarenk;17;3;
+4;indef;acc;Bir halıyı adam seriyor şimdi, değerli bir parçaymış;17;4;
+5;def;unacc;Araba adam onarıyor, adamın işi bu;18;2;
+6;def;acc;Arabayı adam onarıyor, sen hiç merak etme;18;3;
+7;indef;unacc;Bir araba adam onarıyor ama pek işinin ehli gibi durmuyor;18;4;
+8;indef;acc;Bir arabayı adam onarıyor, yarına bitirmesi lazımmış;18;1;
+1;def;unacc;Çamaşır kadın katlıyor alelacele, dışarı çıkacakmış;19;3;
+2;def;acc;Çamaşırı kadın katlıyor ve dolaba yerleştiriyor;19;4;
+3;indef;unacc;Bir çamaşır kadın katlıyor ve ona ait olmadığını fark ediyor;19;1;
+4;indef;acc;Bir çamaşırı kadın katlıyor, o esnada iyi olmadığını fark edyor;19;2;
+5;def;unacc;Sır kız veriyor, bu gidip herkese söylüyor;20;4;
+6;def;acc;Sırrı kız veriyor, bu kimin unutuyor;20;1;
+7;indef;unacc;Bir sır kız veriyor, bu kimseye söylemiyor;20;2;
+8;indef;acc;Bir sırrı kız veriyor, bizimki gidip herkese yayıyor;20;3;
+1;def;unacc;Kazak kadın örüyor, evini böyle geçindiriyor;21;1;
+2;def;acc;Kazağı kadın örüyor ve buna hediye ediyor;21;2;
+3;indef;unacc;Bir kazak kadın örüyor ve herkes çok beğeniyor;21;3;
+4;indef;acc;Bir kazağı kadın örüyor ama beğenmeyip söküyor;21;4;
+5;def;unacc;Anlaşma adam yapıyor ama sonra pişman oluyor;22;2;
+6;def;acc;Anlaşmayı adam yapıyor, primi bu alıyor;22;3;
+7;indef;unacc;Bir anlaşma adam yapıyor fakat sonra unutuyor;22;4;
+8;indef;acc;Bir anlaşmayı adam yapıyor, bu kendisinin yaptığını iddia ediyor;22;1;
+1;def;unacc;Mektup kız buluyor ve odaya gidip gizlice okuyor;23;3;
+2;def;acc;Mektubu kız buluyor ve gizlice odada okuyor;23;4;
+3;indef;unacc;Bir mektup kız buluyor ve okumak için odasına gidiyor;23;1;
+4;indef;acc;Bir mektubu kız buluyor fakat kime yazıldığını öğrenemiyor;23;2;
+5;def;unacc;Para çocuk buluyor ve hemen cebine koyuyor;24;4;
+6;def;acc;Parayı çocuk buluyor ve sahibini aramaya başlıyor;24;1;
+7;indef;unacc;Bir para çocuk buluyor fakat almamaya karar veriyor;24;2;
+8;indef;acc;Bir parayı çocuk buluyor fakat bayağı yüklü bir para;24;3;
+1;def;unacc;Tavuk adam kesiyor ve pişirip yiyor;25;1;
+2;def;acc;Tavuğu adam kesiyor, pişirmeyi kadın yapıyor;25;2;
+3;indef;unacc;Bir tavuk adam kesiyor ve mahalleye dağıtıyor;25;3;
+4;indef;acc;Bir tavuğu adam kesiyor, tavuk hastalıklı çıkıyor;25;4;
+5;def;unacc;Soru çocuk soruyor, bu cevaplayıp sinirleniyor;26;2;
+6;def;acc;Soruyu çocuk soruyor cevabı yine çocuk veriyor;26;3;
+7;indef;unacc;Bir soru soruyor çocuk bu şok oluyor;26;4;
+8;indef;acc;Bir soruyu çocuk soruyor ama bu ne olduğunu anlamıyor;26;1;
+1;def;unacc;Işık kadın yakıyor ve karşısında adamı buluyor;27;3;
+2;def;acc;Işığı kadın yakıyor ve karşısında adamı buluyor;27;4;
+3;indef;unacc;Bir ışık yakıyor kadın ve karşısında bir de ne görsün?;27;1;
+4;indef;acc;Bir ışığı yakıyor kadın ve bir ne görse beğenirsin?;27;2;
+5;def;unacc;Çiçek kadın kokluyor ve birden hapşırıyor;28;4;
+6;def;acc;Çiçeği kadın kokluyor ve sevimli sevimli gülümsüyor;28;1;
+7;indef;unacc;Bir çiçek kadın kokluyor ve yüzünü buruşturuyor;28;2;
+8;indef;acc;Bir çiçeği kadın kokluyor ve yüzünü buruşturuyor;28;3;
+1;def;unacc;Ses çocuk duyuyor ve yerinden zıplıyor;29;1;
+2;def;acc;Sesi çocuk duyuyor ve çığlığı basıyor;29;2;
+3;indef;unacc;Bir ses çocuk duyuyor ve koşarak kaçıyor;29;3;
+4;indef;acc;Bir sesi çocuk duyuyor ama ne olduğunu anlamıyor;29;4;
+5;def;unacc;Dilenci kadın görüyor ve acıyıp poğaçasını veriyor;30;2;
+6;def;acc;Dilenciyi kadın görüyor ve merhamet ediyor;30;3;
+7;indef;unacc;Bir dilenci kadın görüyor ve yemeğini onunla paylaşıyor;30;4;
+8;indef;acc;Bir dilenciyi kadın görüyor ve acıyıp yemeğini veriyor;30;1;
+1;def;unacc;Resim çocuk görüyor ve heyecanla bağırmaya başlıyor;31;3;
+2;def;acc;Resmi çocuk görüyor ve heyecanla bağırmaya başlıyor;31;4;
+3;indef;acc;Bir resim çocuk görüyor ve birden yüzü sararıyor;31;1;
+4;indef;unacc;Bir resmi çocuk görüyor ve birden yüzü sararıyor;31;2;
+5;def;acc;Konu çocuk açıyor ve durmadan onun hakkında konuşuyor;32;4;
+6;def;unacc;Konuyu çocuk açıyor fakat bizim kız oralı olmuyor;32;1;
+7;indef;acc;Bir konu çocuk açıyor fakat kimsenin ilgisini çekmiyor;32;2;
+8;indef;unacc;Bir konuyu çocuk açıyor fakat konuşlabilecek bir konu değil;32;3;
+ungrammatical;Sen kırdın camı, söyleyeceğim sizi anneme.
+ungrammatical;İki kediler yemeği yedi, köpeğe hiçbir şey kalmad!
+ungrammatical;Fotoğrafı bir kadın çekmiştiler, hatırladım mı onu?
+ungrammatical;Bir kadını adam dövdük, polisler ondan geldi.
+ungrammatical;Bir dayılar geldi buraya, seni sordular.
+ungrammatical;Sanki bir sesler duyuyorum, ben de duyuyor muyum?
+ungrammatical;Tabancayı sana sen verdin, senin suçun yok.
+ungrammatical;Kadını deli ettiniz, hep benim suçum!
+mediocre;Limonata satacağım ben, sen sat şeker!
+mediocre;Ben yapacağım dizaynı, bana güven ya sen.
+mediocre;Bir problem çıkarmayacak hoca, sanmam çıkaracağını.
+mediocre;Bir söz verecek kocan, tutacak da sözünü
+mediocre;Sepet sarkıtacak kadın camdan, çekil de çarpmasın kafana
+mediocre;Sandalyeyi alacak annem, sen oturursun yerde
+mediocre;Havuza atlayacak köpek, ilaçlı ama o havuz
+mediocre;Konsere gidecek arkadaşlar, gideceğim ben de çağırırlarsa
+mediocre;Bizi arayacak adam yarın, öyle demiş anneme
+mediocre;Duvara çarpacak kardeşin, durdur şu deliyi
+mediocre;Seksek oynayacak çocuklar, çiziver yere bir tane
+mediocre;Arabayı çalıştıracak baban, kapat kapını artık
+mediocre;Kargo getirecek kurye, bastın mı otomatiğe?
+mediocre;Hesabını soracak sana, biliyorsun değil mi
+mediocre;Kapıyı kapatacak çocuk, çekil kenara da kapasın
+mediocre;Mama verecek kediye, ama bulamadı mama kabını
+grammatical;Ben de salağa yattım ve anlamamış gibi yaptım.
+grammatical;O sadece yerleri sildi, camları silmedi ki.
+grammatical;Sen beni tanımamışsın, ben öyle birisi miyim!
+grammatical;Onlar çocuğa çarptı diyorsun yani, öyle mi?
+grammatical;Biz arabayı almadık, yürüyerek geldik.
+grammatical;Siz içecek alın, gerisini biz hallederiz.
+grammatical;Ben bilgisayar istedim, o bana tablet almış.
+grammatical;Sen yemeği ye, ben bulaşıkları yıkarım.
